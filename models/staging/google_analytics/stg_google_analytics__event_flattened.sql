@@ -5,7 +5,6 @@
  
  SELECT
    event_name,
-   1 AS column_1,
    TIMESTAMP_MICROS(event_timestamp) AS event_timestamp,
    user_pseudo_id,
    user_first_touch_timestamp,
