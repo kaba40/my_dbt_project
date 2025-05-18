@@ -14,7 +14,7 @@ sources:
   - name: sales_database
     schema: sales_database
     tables:
-      - name: feedback
+      - name: feed_back
       - name: payment
       - name: product
       - name: order
